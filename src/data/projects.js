@@ -9,7 +9,7 @@ export const projects = [
     tech: ['React', 'JavaScript', 'Tailwind CSS'],
     github: 'https://github.com/nasimbekasrorov-boop/wedrink-app',
     demo: 'https://wedrink-app-phi.vercel.app',
-    image: null,
+    image: '/wedrink_v4.svg'
   },
   {
     number: '02',
